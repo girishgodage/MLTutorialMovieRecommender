@@ -1,0 +1,13 @@
+C:\DotnetCore\ML\MovieRecommender\MovieRecommender\bin\Debug\netcoreapp2.2\MovieRecommender.deps.json
+C:\DotnetCore\ML\MovieRecommender\MovieRecommender\bin\Debug\netcoreapp2.2\MovieRecommender.runtimeconfig.json
+C:\DotnetCore\ML\MovieRecommender\MovieRecommender\bin\Debug\netcoreapp2.2\MovieRecommender.runtimeconfig.dev.json
+C:\DotnetCore\ML\MovieRecommender\MovieRecommender\bin\Debug\netcoreapp2.2\MovieRecommender.dll
+C:\DotnetCore\ML\MovieRecommender\MovieRecommender\obj\Debug\netcoreapp2.2\MovieRecommender.csprojAssemblyReference.cache
+C:\DotnetCore\ML\MovieRecommender\MovieRecommender\obj\Debug\netcoreapp2.2\MovieRecommender.csproj.CoreCompileInputs.cache
+C:\DotnetCore\ML\MovieRecommender\MovieRecommender\obj\Debug\netcoreapp2.2\MovieRecommender.AssemblyInfoInputs.cache
+C:\DotnetCore\ML\MovieRecommender\MovieRecommender\obj\Debug\netcoreapp2.2\MovieRecommender.AssemblyInfo.cs
+C:\DotnetCore\ML\MovieRecommender\MovieRecommender\bin\Debug\netcoreapp2.2\Data\recommendation-ratings-test.csv
+C:\DotnetCore\ML\MovieRecommender\MovieRecommender\bin\Debug\netcoreapp2.2\Data\recommendation-ratings-train.csv
+C:\DotnetCore\ML\MovieRecommender\MovieRecommender\bin\Debug\netcoreapp2.2\MovieRecommender.pdb
+C:\DotnetCore\ML\MovieRecommender\MovieRecommender\obj\Debug\netcoreapp2.2\MovieRecommender.dll
+C:\DotnetCore\ML\MovieRecommender\MovieRecommender\obj\Debug\netcoreapp2.2\MovieRecommender.pdb
